@@ -11,9 +11,9 @@ This repository will contain resources and projects related to Natural Language 
     - Quick start to Agents with LangChain
     - Production applications with Vertex AI agents.
 
-* [Agentic RAG](RAG/Agentic_RAG.ipynb): This notebooks creates a LangChain agentic RAG system using the IBM Granite-3-8b-Instruct model that can answer complex queries about the 2024 US Open Using external information. This is extracted from [github][https://github.com/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/AI-Agents/Agentic_RAG.ipynb]
+* [Agentic RAG](RAG/Agentic_RAG.ipynb): This notebooks creates a LangChain agentic RAG system using the IBM Granite-3-8b-Instruct model that can answer complex queries about the 2024 US Open Using external information. This is extracted from [github](https://github.com/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/AI-Agents/Agentic_RAG.ipynb).
 
-* [RAG](RAG/RAG_with_Langchain.ipynb): This notebook contains instruction for performing RAG. Also extracted from [github][https://github.com/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/AI-Agents/Agentic_RAG.ipynb].
+* [RAG](RAG/RAG_with_Langchain.ipynb): This notebook contains instruction for performing RAG. Also extracted from [github](https://github.com/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/AI-Agents/Agentic_RAG.ipynb).
 
 ## Projects
 
